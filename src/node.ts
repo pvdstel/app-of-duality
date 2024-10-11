@@ -1,5 +1,6 @@
 import { add } from './logic/maths.js';
 
-export function executeConsoleApp() {
+export function initializeConsoleApp()
+{
     console.log(add(2, 10));
 }

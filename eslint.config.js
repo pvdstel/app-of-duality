@@ -36,7 +36,7 @@ const config = [
     }),
     {
         rules: {
-            '@stylistic/brace-style': ['error', '1tbs', { allowSingleLine: true }],
+            '@stylistic/brace-style': ['error', 'allman', { allowSingleLine: true }],
         },
     },
 ];
